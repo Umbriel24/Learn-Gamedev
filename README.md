@@ -34,4 +34,37 @@
   
   ## About
   
-  This is WIP, check this, which is really well made [This](https://github.com/notpresident35/learn-awesome-gamedev)
+  This is WIP.  Check also these, which are really well done! 
+  [Awesome Gamedev](https://github.com/notpresident35/learn-awesome-gamedev)
+  [Awesome Game Security](https://github.com/gmh5225/awesome-game-security)
+  [Anything about game](https://github.com/killop/anything_about_game)
+
+  <br />
+
+  ## General
+  🔰 Beginner level.
+  🔷 Really useful, You should probably check them.
+
+  <br />
+
+  ## Programming 
+
+  <br />
+
+  ## Art
+
+  <br />
+
+  ### 2D/Illustration
+
+  <br />
+
+  ##### Pixel Art
+
+    🔷[Saint11 Blog](https://saint11.org/blog/pixel-art-tutorials/) - A Blog Full of Tutorial.
+    🔰🔷 [LOSPEC](https://lospec.com/palette-list) - Website full of pixel art palette and tutorial, perfect for beginner
+
+
+
+
+  
