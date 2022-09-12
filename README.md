@@ -6,8 +6,9 @@
 <p>
   
 ## Contents:
+  
 - [About](#about)
-- [General]
+- [General](#general)
 - [Programming](#programming)
     - [Gameplay](#gameplay)
     - [Graphics](#graphics)
