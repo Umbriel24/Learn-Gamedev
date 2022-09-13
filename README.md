@@ -35,15 +35,15 @@
   ## About
   
   This is WIP.  Check also these, which are really well done! 
-  [Awesome Gamedev](https://github.com/notpresident35/learn-awesome-gamedev)
-  [Awesome Game Security](https://github.com/gmh5225/awesome-game-security)
+  [Awesome Gamedev](https://github.com/notpresident35/learn-awesome-gamedev) <br />
+  [Awesome Game Security](https://github.com/gmh5225/awesome-game-security) <br />
   [Anything about game](https://github.com/killop/anything_about_game)
 
   <br />
 
   ## General
-  🔰 Beginner level.
-  🔷 Really useful, You should probably check them.
+  🔰 Beginner level. <br />
+  🔷 Really useful, You should probably check them. <br />
 
   <br />
 
