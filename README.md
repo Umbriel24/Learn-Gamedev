@@ -56,6 +56,8 @@
   <br />
 
   ### 2D/Illustration
+  
+  🔰[GiantLightStudio - Approach to Game Art] (https://giantlightstudios.com/gdc2022)
 
   <br />
 
