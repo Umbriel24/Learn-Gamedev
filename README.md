@@ -57,14 +57,21 @@
 
   ### 2D/Illustration
   
-  🔰[GiantLightStudio - Approach to Game Art] (https://giantlightstudios.com/gdc2022)
+  🔰[GiantLightStudio - Approach to Game Art] (https://giantlightstudios.com/gdc2022) <br />
+   
+  [2D  Skeletal Animaion - Spine] (https://it.esotericsoftware.com/spine-purchase) <br />
+  [2D Free Skeletal Animation - Dragonbones] (https://docs.egret.com/dragonbones/en) <br />
 
   <br />
 
   ##### Pixel Art
 
     🔷[Saint11 Blog](https://saint11.org/blog/pixel-art-tutorials/) - A Blog Full of Tutorial.
-    🔰🔷 [LOSPEC](https://lospec.com/palette-list) - Website full of pixel art palette and tutorial, perfect for beginner
+    🔰🔷 [LOSPEC](https://lospec.com/palette-list) - Website full of pixel art palette and tutorial, perfect for beginner.
+  
+  ##Design
+  
+  [Game Art & Design Tricks] (http://simonschreibt.de/game-art-tricks/).
 
 
 
