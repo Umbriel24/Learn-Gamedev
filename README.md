@@ -34,16 +34,22 @@
   
   ## About
   
-  This is WIP.  Check also these, which are really well done! 
+  This is WIP.  Check also these, which are really well done! <br />
   [Awesome Gamedev](https://github.com/notpresident35/learn-awesome-gamedev) <br />
   [Awesome Game Security](https://github.com/gmh5225/awesome-game-security) <br />
-  [Anything about game](https://github.com/killop/anything_about_game)
+  [Anything about game](https://github.com/killop/anything_about_game) <br />
+  
+   🔰 Beginner level. <br />
+  🔷 Really useful, You should probably check them. <br />
 
   <br />
 
   ## General
-  🔰 Beginner level. <br />
-  🔷 Really useful, You should probably check them. <br />
+  
+   General Resources Website:
+  [Resources for Game Developers](https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers)
+  
+
 
   <br />
 
