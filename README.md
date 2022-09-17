@@ -69,7 +69,7 @@
     🔷[Saint11 Blog](https://saint11.org/blog/pixel-art-tutorials/) - A Blog Full of Tutorial.
     🔰🔷 [LOSPEC](https://lospec.com/palette-list) - Website full of pixel art palette and tutorial, perfect for beginner.
   
-  ##Design
+  ## Design
   
   [Game Art & Design Tricks] (http://simonschreibt.de/game-art-tricks/).
 
