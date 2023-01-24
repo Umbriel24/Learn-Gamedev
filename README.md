@@ -38,6 +38,7 @@
   [Awesome Gamedev](https://github.com/notpresident35/learn-awesome-gamedev) <br />
   [Awesome Game Security](https://github.com/gmh5225/awesome-game-security) <br />
   [Anything about game](https://github.com/killop/anything_about_game) <br />
+  [18+Games guide](https://porngamedev.github.io/) <br />
   
    🔰 Beginner level. <br />
   🔷 Really useful, You should probably check them. <br />
